@@ -1,9 +1,3 @@
-; Ryan Read
-; 200243833
-; Lab 6
-; CS 301-95
-; Mar 6th 2017
-
 ;;; Directives
           PRESERVE8
           THUMB       
